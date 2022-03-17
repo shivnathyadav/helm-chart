@@ -1,0 +1,7 @@
+replicaCount: 1
+
+image:
+  repository: shivnathy/backend-user:latest
+  pullPolicy: IfNotPresent
+  tag: 0.1.0
+  
